@@ -14,6 +14,3 @@ Utilizar la plantilla original de AWS CloudFormation suministrada como plantilla
 Utilizar la plantilla generada en el paso anterior, salida.yml para desplegar la infraestructura necesaria y la aplicación
 
   > $ aws cloudformation deploy --template-file salida.yml --stack-name mi-aplicacion --capabilities CAPABILITY_IAM --region us-east-1
-
-## PASO 4
-Do Nothing!
